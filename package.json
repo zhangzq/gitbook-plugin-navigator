@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-navigator",
+  "version": "1.1.0",
+  "description": "add toc navigator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzq/gitbook-plugin-navigator.git"
+  },
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "ftp"
+  ],
+  "author": "zhangzq",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zhangzq/gitbook-plugin-navigator/issues"
+  },
+  "homepage": "https://github.com/zhangzq/gitbook-plugin-navigator#readme",
+  "dependencies": {
+    "cheerio": "*"
+  },
+  "engines": {
+    "gitbook": "*"
+  }
+}
